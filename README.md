@@ -1,4 +1,5 @@
 # End-to-End-RAG
+This is a guide to build production level RAG
 1. Architecture
 	1. Monitoring(Langsmith)
 	2. Retrieval(OpenAl, Pinecone)
